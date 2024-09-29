@@ -36,3 +36,65 @@
     transform: rotate(360deg);
   }
 }
+.nav {
+  background-color: #282c34;
+  text-align: center;
+  padding: 5px;
+  color: white;
+}
+.foot{
+  background-color: #282c34;
+  text-align: center;
+  padding: 5px;
+  color: white;
+  margin-top:10px;
+}
+.list{
+  /* display: inline-block;
+  display: flex;
+  justify-content: space-around;
+  list-style:none;
+   */
+}
+.flex{
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  justify-content: space-around;
+  
+}
+.center{
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  justify-content: space-around;
+}
+.home{
+  background-color: #a2aec7;
+  text-align: center;
+  padding: 5px;
+  color: white;
+  margin-top:10px;
+}
+.pcs{
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+
+.phone{
+  background-color: #0b2250;
+  text-align: center;
+  padding: 5px;
+  color: white;
+  margin-top:10px;
+}
+.about{
+  background-color: #537bcc;
+  text-align: center;
+  padding: 5px;
+  color: white;
+  margin-top:10px;
+}
