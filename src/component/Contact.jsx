@@ -15,8 +15,6 @@ export default function Contact() {
 
         <div className="center">
           <a href="about/">AboutUs</a>
-          <br />
-          <a href="home/">Home</a>
         </div>
       </div>
     </div>

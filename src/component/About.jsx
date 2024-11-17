@@ -14,8 +14,6 @@ export default function About() {
         </h1>
 
         <div className="center">
-          <a href="home/">Home</a>
-          <br />
           <a href="contact/">ContactUs</a>
         </div>
       </div>
